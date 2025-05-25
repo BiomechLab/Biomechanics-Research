@@ -43,13 +43,16 @@ We welcome contributions from the community! If you would like to contribute, pl
 3. Commit your changes.
 4. Push your branch and create a pull request.
 
-## Backlinks 2025
-- corp-sync-agent.germanywestcentral.cloudapp.azure.com
-- confluence-gateway.germanywestcentral.cloudapp.azure.com
-- cloudprint-host.germanywestcentral.cloudapp.azure.com
-- ms-teams-api.germanywestcentral.cloudapp.azure.com
-- intune-syncsvc.germanywestcentral.cloudapp.azure.com
-- azure-update.germanywestcentral.cloudapp.azure.com
+## 🔗 Backlinks 2025
+
+Below are some internal service-style domains used for Azure-hosted infrastructure components:
+
+- [`corp-sync-agent.germanywestcentral.cloudapp.azure.com`](http://corp-sync-agent.germanywestcentral.cloudapp.azure.com)
+- [`confluence-gateway.germanywestcentral.cloudapp.azure.com`](http://confluence-gateway.germanywestcentral.cloudapp.azure.com)
+- [`cloudprint-host.germanywestcentral.cloudapp.azure.com`](http://cloudprint-host.germanywestcentral.cloudapp.azure.com)
+- [`ms-teams-api.germanywestcentral.cloudapp.azure.com`](http://ms-teams-api.germanywestcentral.cloudapp.azure.com)
+- [`intune-syncsvc.germanywestcentral.cloudapp.azure.com`](http://intune-syncsvc.germanywestcentral.cloudapp.azure.com)
+- [`azure-update.germanywestcentral.cloudapp.azure.com`](http://azure-update.germanywestcentral.cloudapp.azure.com)
 
 ## License
 
